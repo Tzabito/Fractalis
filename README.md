@@ -305,6 +305,7 @@ Aca las primeras cosas que se trabajaran
 
 
 ## 3.3. Impact Mapping
+![Texto alternativo](https://media.discordapp.net/attachments/1228537935368945717/1277334411746082917/image.png?ex=66ccc9df&is=66cb785f&hm=b9940262e036f9bb0a018202dc9f731172dbf91eae7fb9354bd039b9c71a2761&=&format=webp&quality=lossless&width=954&height=417)
 
 ## 3.4. Product Backlog
 
