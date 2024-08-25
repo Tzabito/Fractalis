@@ -262,6 +262,15 @@ Aca las primeras cosas que se trabajaran
 [![Imagen de Micro cultivo](https://media.discordapp.net/attachments/1228537935368945717/1277297738538815602/Diagrama_en_blanco_-_Pagina_1_1.png?ex=66cca7b7&is=66cb5637&hm=fb0e6392900569b4d47781e0fd248ce737d0f550dc9025b43aa791460f9258c3&=&format=webp&quality=lossless&width=1025&height=345)]
 
 ## 3.2. User Stories
+ ### Epics
+
+| Epic ID | Título                        | Descripción                                                                                                                                  |
+|---------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| EP1     | Landing Page                  | Desarrollo de la página de aterrizaje para AgroVision con secciones de encabezado, beneficios, características, planes y precios, testimonios y footer. |
+| EP2     | Aplicación Móvil              | Desarrollo de la aplicación móvil en Flutter que incluye monitoreo en tiempo real, control remoto, visualización de datos históricos, gestión de perfiles de cultivo, alertas y notificaciones, y configuración de horarios de dispositivos. |
+| EP3     | Aplicación Web                | Desarrollo de la aplicación web en Angular que incluye dashboard centralizado, administración de cultivos, análisis y reportes, gestión de dispositivos IoT, y gestión de usuarios y permisos. |
+| EP4     | Backend y Lógica de Negocio   | Desarrollo del backend en Spring Boot para la gestión de cultivos, sensores, dispositivos, usuarios, automatización, integración con IoT y generación de reportes. Además, se incluye la conexión con un API de otro backend que se integrará con un simulador IoT. |
+
 
 ## 3.3. Impact Mapping
 
