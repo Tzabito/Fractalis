@@ -259,8 +259,7 @@ Aca las primeras cosas que se trabajaran
 
 ### Micro cultivo
 
-[![Imagen de Micro cultivo](![image](https://github.com/user-attachments/assets/43194381-4ab7-4d21-ba86-10583431b7f6)
-)]
+[![Imagen de Micro cultivo](https://media.discordapp.net/attachments/1228537935368945717/1277297738538815602/Diagrama_en_blanco_-_Pagina_1_1.png?ex=66cca7b7&is=66cb5637&hm=fb0e6392900569b4d47781e0fd248ce737d0f550dc9025b43aa791460f9258c3&=&format=webp&quality=lossless&width=1025&height=345)]
 
 ## 3.2. User Stories
 
