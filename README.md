@@ -253,6 +253,14 @@ Aca las primeras cosas que se trabajaran
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+### Cultivadores de invernadero
+
+[![Imagen de Cultivadores de invernadero](https://media.discordapp.net/attachments/1228537935368945717/1277297738903589117/Diagrama_en_blanco_-_Pagina_1.png?ex=66cca7b7&is=66cb5637&hm=105e7fb53991a4ed94b86716fbc7074603884cc5570ddb8cb6d6ba80f8cd1036&=&format=webp&quality=lossless&width=1025&height=345)]
+
+### Micro cultivo
+
+[![Imagen de Micro cultivo](![image](https://github.com/user-attachments/assets/43194381-4ab7-4d21-ba86-10583431b7f6)
+)]
 
 ## 3.2. User Stories
 
