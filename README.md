@@ -255,11 +255,11 @@ Aca las primeras cosas que se trabajaran
 ## 3.1. To-Be Scenario Mapping
 ### Cultivadores de invernadero
 
-[![Imagen de Cultivadores de invernadero]([https://media.discordapp.net/attachments/1228537935368945717/1277297738903589117/Diagrama_en_blanco_-_Pagina_1.png?ex=66cca7b7&is=66cb5637&hm=105e7fb53991a4ed94b86716fbc7074603884cc5570ddb8cb6d6ba80f8cd1036&=&format=webp&quality=lossless&width=1025&height=345](https://media.discordapp.net/attachments/1228537935368945717/1277297738538815602/Diagrama_en_blanco_-_Pagina_1_1.png?ex=66cea1f7&is=66cd5077&hm=08d4f7e067c840d967de645bcbdd9e9d99e8556b5f1d1900d939ecf456e12fb9&=&format=webp&quality=lossless&width=1025&height=345))]
+[![Imagen de Cultivadores de invernadero](https://media.discordapp.net/attachments/1228537935368945717/1277297738538815602/Diagrama_en_blanco_-_Pagina_1_1.png?ex=66cea1f7&is=66cd5077&hm=08d4f7e067c840d967de645bcbdd9e9d99e8556b5f1d1900d939ecf456e12fb9&=&format=webp&quality=lossless&width=1025&height=345)]
 
 ### Micro cultivo
 
-[![Imagen de Micro cultivo](https://media.discordapp.net/attachments/1228537935368945717/1277297738903589117/Diagrama_en_blanco_-_Pagina_1.png?ex=66cea1f7&is=66cd5077&hm=e8e2d6b51b7abf8fcb892f3ebf97fa0c2913363a469edab68d3a042dad914a5f&=&format=webp&quality=lossless&width=1025&height=345)]
+[![Imagen de Micro cultivo](https://media.discordapp.net/attachments/1228537935368945717/1277297738903589117/Diagrama_en_blanco_-_Pagina_1.png?ex=66cea1f7&is=66cd5077&hm=e8e2d6b51b7abf8fcb892f3ebf97fa0c2913363a469edab68d3a042dad914a5f&=&format=webp&quality=lossless&width=1025&height=345](https://media.discordapp.net/attachments/1228537935368945717/1277297738903589117/Diagrama_en_blanco_-_Pagina_1.png?ex=66cea1f7&is=66cd5077&hm=e8e2d6b51b7abf8fcb892f3ebf97fa0c2913363a469edab68d3a042dad914a5f&=&format=webp&quality=lossless&width=1025&height=345)]
 
 ## 3.2. User Stories
  ### Epics
