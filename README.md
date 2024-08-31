@@ -231,24 +231,15 @@ Aca las primeras cosas que se trabajaran
 ## 2.2. Entrevistas
 # Segmento: Dueños de Invernaderos
 
-## Entrevistado 01
-- **[Video de la Entrevista](https://www.youtube.com/watch?v=n3PuNGCNKNs)**
-- **Nombre y Apellido:** Sonia Hcaylluhua
-- **Edad:** 32
-- **Ubicación:** Puno, Puno, Perú
+| **Segmento**                 | Dueños de Invernaderos                             |
+|------------------------------|----------------------------------------------------|
+| **Entrevistado 01**           | [Ver Entrevista](https://www.youtube.com/watch?v=n3PuNGCNKNs) |
+| **Nombre y Apellido**         | Sonia Hcaylluhua                                   |
+| **Edad**                      | 32                                                 |
+| **Ubicación**                 | Puno, Puno, Perú                                   |
+| **Imagen**                    | ![Imagen](https://media.discordapp.net/attachments/1228537935368945717/1279448960561447057/image.png?ex=66d47b33&is=66d329b3&hm=b30536094cd394565707fc9a99158b1640d17c0b5a18fdc5c11122802c73bea6&=&format=webp&quality=lossless&width=742&height=417) |
+| **Resumen**                   | Sonia Hcaylluhua, agricultora de 32 años de la región de Puno, Perú, se dedica al cultivo y venta de fresas en su invernadero. A pesar de su experiencia en la agricultura, no ha incorporado tecnología avanzada, pero está interesada en herramientas que optimicen sus procesos. Actualmente, el monitoreo de sus cultivos requiere un esfuerzo manual significativo, especialmente en el riego, lo que genera altos costos de consumo de agua. Sonia considera la posibilidad de adoptar una solución tecnológica para gestionar el riego de manera más eficiente. Está interesada en una aplicación móvil con sensores para monitorear sus cultivos en tiempo real, aunque necesitaría capacitación para su uso. Además de optimizar el riego, espera que la tecnología le ayude a expandir su negocio y llegar a más mercados. |
 
-![Imagen](https://media.discordapp.net/attachments/1228537935368945717/1279448960561447057/image.png?ex=66d47b33&is=66d329b3&hm=b30536094cd394565707fc9a99158b1640d17c0b5a18fdc5c11122802c73bea6&=&format=webp&quality=lossless&width=742&height=417)
-
-### Resumen
-Sonia Hcaylluhua, una agricultora de 32 años de la región de Puno, Perú, se dedica al cultivo y venta de fresas en su invernadero. A pesar de su experiencia en la agricultura, hasta el momento no ha incorporado tecnología avanzada en sus prácticas diarias. Sin embargo, Sonia está consciente de la importancia de modernizarse y está interesada en implementar herramientas tecnológicas que puedan optimizar sus procesos y mejorar la eficiencia de su negocio.
-
-Actualmente, el monitoreo de sus cultivos de fresas requiere un esfuerzo manual significativo, lo que le demanda mucho tiempo y atención. Sonia identifica el riego como uno de los principales desafíos, ya que es el área donde se generan mayores costos, especialmente en términos de consumo de agua. Por esta razón, ve con buenos ojos la posibilidad de adoptar una solución tecnológica que le permita gestionar el riego de manera más eficiente, lo que a su vez podría reducir sus gastos y mejorar la productividad de su invernadero.
-
-Sonia expresa interés en una aplicación móvil equipada con sensores que le permita monitorear sus cultivos en tiempo real. Aunque no tiene una cifra exacta de cuánto estaría dispuesta a invertir en dicha tecnología, está abierta a considerar la inversión si esta solución le ofrece mejoras significativas en la gestión de su invernadero. No obstante, reconoce que necesitaría capacitación para utilizar correctamente estas nuevas herramientas, ya que, como agricultora, no tiene un conocimiento profundo en el manejo de aplicaciones tecnológicas.
-
-Además de optimizar el riego, Sonia también espera que la tecnología le ayude a expandir su negocio y llegar a más mercados, lo que podría traducirse en mayores ingresos. Considera que la automatización del riego y la capacidad de gestionar su invernadero de manera más eficiente son factores clave que la motivarían a adoptar estas innovaciones.
-
-En conclusión, Sonia Hcaylluhua es una agricultora que, a pesar de no haber utilizado tecnología avanzada hasta ahora, está dispuesta a explorar soluciones que puedan modernizar sus prácticas agrícolas, siempre y cuando reciba la capacitación adecuada para maximizar los beneficios de estas inversiones.
 
 
 ### 2.2.1. Diseño de entrevistas
